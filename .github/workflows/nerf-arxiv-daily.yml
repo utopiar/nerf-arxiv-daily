@@ -10,8 +10,8 @@ on:
     - cron:  "0 0/6 * * *"  #'*/60 * * * *'
 env:
 
-  GITHUB_USER_NAME: AliTheFox86
-  GITHUB_USER_EMAIL: wangqian@nudt.edu.cn
+  GITHUB_USER_NAME: utopiar
+  GITHUB_USER_EMAIL: zhengdaxg@163.com
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
